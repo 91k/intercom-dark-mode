@@ -2,5 +2,6 @@
 
 <img src="https://userstyles.org/style_screenshots/170400_after.png?r=1553855171">
 
-Stylus: https://add0n.com/stylus.html<br>
+Stylus Google Chrome: https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne<br>
+Stylus Mozilla Firefox: https://addons.mozilla.org/en-US/firefox/addon/styl-us/<br>
 Userstyles: https://userstyles.org/styles/170400/intercom-io-dark-mode
